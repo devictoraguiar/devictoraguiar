@@ -69,6 +69,7 @@
 ![Unity](https://img.shields.io/badge/-UNity-0D1117?style=for-the-badge&logo=UNITY&labelColor=0D1117)&nbsp;
 ![Unreal-Engine](https://img.shields.io/badge/-Unreal_Engine-0D1117?style=for-the-badge&logo=UNreal-engine&&labelColor=0D1117)&nbsp; 
 ![.net](https://img.shields.io/badge/-.net-0D1117?style=for-the-badge&logo=.net&logoColor=purple&labelColor=0D1117)&nbsp; 
+![React.JS](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=0D1117)&nbsp; 
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=Django&logoColor=green&labelColor=0D1117)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=#FFCA28&labelColor=0D1117)&nbsp;
