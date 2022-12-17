@@ -88,8 +88,6 @@
 ![Material design](https://img.shields.io/badge/-Material_design-0D1117?style=for-the-badge&logo=material-design&labelColor=0D1117)&nbsp;
 ![LInux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-<center>And learning...</center>
-
 ##### And learning...
 
 <div align="center">
