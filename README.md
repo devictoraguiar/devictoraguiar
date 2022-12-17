@@ -90,7 +90,7 @@
 
 <center>And learning...</center>
 
-<!-- Contador de visitantes -->
+##### And learning...
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
